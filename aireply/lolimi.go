@@ -20,11 +20,11 @@ type LolimiAi struct {
 const (
 	lolimiURL = "https://api.lolimi.cn"
 	// MomoURL api地址
-	MomoURL = lolimiURL + "/API/AI/mm.php?msg=%v"
+	MomoURL = lolimiURL + "/API/AI/mm.php?key=Bys4kPjO2cSrybKak2XbtinQn9&msg=%v"
 	// MomoBotName ...
 	MomoBotName = "沫沫"
 	// JingfengURL api地址
-	JingfengURL = lolimiURL + "/API/AI/jj.php?msg=%v"
+	JingfengURL = lolimiURL + "/API/AI/jj.php?key=Bys4kPjO2cSrybKak2XbtinQn9&msg=%v"
 	// JingfengBotName ...
 	JingfengBotName = "婧枫"
 )
